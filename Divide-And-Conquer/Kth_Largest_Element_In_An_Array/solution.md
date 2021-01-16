@@ -1,6 +1,6 @@
 ## Analysis:
 
-There can be multiple solutions for this problem one of the direct one is just sorting the array in non-decreasing order \n
+There can be multiple solutions for this problem one of the direct one is just sorting the array in non-decreasing order
 and returning the element at index K
 
 ### Complexity analysis:
